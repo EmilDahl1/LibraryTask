@@ -1,0 +1,34 @@
+Code to create MySQL server that works with the library project.
+User, Password and URL needs to be set in Java code for this to work as this sever was run locally on my machine.
+
+Create table books
+ISBN int,
+TITLE Varchar(35),
+InStock int,
+
+primary key ISBN
+---------------------------------------------
+
+Create table loanedBooks
+ISBN int,
+USERID int,
+loanDate DATE,
+returnDate DATE
+
+
+--------------------------------------------
+Create table suspendedusers
+USERID int,
+suspensiondate DATE,
+typeOfUser INT
+
+--------------------------------------------
+create table users
+typeOfuser int,
+USERID int,
+borrowedBooks int,
+loanLimit int,
+strikes int,
+
+
+Please email me at emildahl05@gmail.com if there is any questions what so ever on how to get this to work.

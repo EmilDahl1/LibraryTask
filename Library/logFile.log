@@ -1,0 +1,8 @@
+2023-03-17 13:05:51.085 [main] INFO  main - Faulty inlog attempt :8989
+2023-03-17 13:06:24.178 [main] INFO  main - Faulty inlog attempt :7800
+2023-03-17 13:07:18.748 [main] INFO  main - User 7830 logged in.
+2023-03-17 13:08:57.297 [main] INFO  main - User 7830 logged in.
+2023-03-17 13:09:00.808 [main] INFO  Functionality - ISBN: 19919 faulty search.
+2023-03-17 13:10:31.828 [main] INFO  main - Faulty inlog attempt :9292
+2023-03-17 13:11:03.343 [main] INFO  main - Faulty inlog attempt :9939
+2023-03-17 13:15:07.275 [main] ERROR Functionality - Failed to connect to server @createUser
